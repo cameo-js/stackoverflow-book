@@ -1,11 +1,16 @@
 # stackoverflow-book
 
-## [java](/languages/java)
+## Languages
+- [java](/languages/java)
+- [javascript](/languages/javascript)
+- [scala](/languages/scala)
+- [ruby](/languages/ruby)
+- [python](/languages/python)
 
-## [javascript](/languages/javascript)
+## Math
 
-## [scala](/languages/scala)
+## Software Architecture
 
-## [ruby](/languages/ruby)
+## Theory
 
-## [python](/languages/python)
+## DataBases
