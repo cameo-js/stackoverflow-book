@@ -1,11 +1,11 @@
 # stackoverflow-book
 
-## [java](/java)
+## [java](/languages/java)
 
-## [javascript](/javascript)
+## [javascript](/languages/javascript)
 
-## [scala](/scala)
+## [scala](/languages/scala)
 
-## [ruby](/ruby)
+## [ruby](/languages/ruby)
 
-## [python](/python)
+## [python](/languages/python)
