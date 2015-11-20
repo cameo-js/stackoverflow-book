@@ -7,6 +7,10 @@
 - [ruby](/languages/ruby)
 - [python](/languages/python)
 
+## tools
+- [npm](/tools/npm)
+- [git](/tools/git)
+
 ## Math
 
 ## Software Architecture
